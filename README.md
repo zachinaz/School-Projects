@@ -1,1 +1,1 @@
-# School-Projects
+# UI Programming and Design Project
